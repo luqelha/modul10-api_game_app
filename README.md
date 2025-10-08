@@ -24,6 +24,7 @@ Melalui modul ini, kamu akan mempelajari cara mengambil data dari **REST API**, 
 - Membuat tampilan dinamis berdasarkan data API
 
 ## 🧩 Struktur Folder
+```
 lib/
 ├── main.dart
 ├── model/
@@ -34,6 +35,7 @@ lib/
 │ └── home.dart
 ├── viewmodel/
 │ └── fetchgame.dart
+```
 
 ## 🧰 Tools yang Digunakan
 - Flutter SDK
